@@ -1,2 +1,3 @@
 # ExerciciosPW
-Só os exercícios de PW
+Exercícios de Programação Web realizados em PHP
+
